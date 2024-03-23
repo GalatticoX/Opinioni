@@ -4,3 +4,4 @@ Linguaggio: java, Sistema operativo: Windows
 Linguaggio: python, Sistema operativo: windows
 Linguaggio: java, Sistema operativo: Windows
 Linguaggio: c#, Sistema operativo: Windows
+Nome: zrfdhszh, Cognome: rdzhzdrhz, Linguaggio: c#, Sistema operativo: Windows, Console: Xbox
